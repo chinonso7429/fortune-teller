@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 let fortune1= "hey dear"
 let fortune2= "My mommy"
@@ -21,6 +21,4 @@ if (randomNumber === 1) {
   selectedFortune = fortune5;
 }
 console.log( selectedFortune);
-
-** end of script.js **
 
